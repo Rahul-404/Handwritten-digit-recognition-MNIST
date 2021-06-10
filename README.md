@@ -13,8 +13,6 @@ This is a 8 layers Sequential Convolutional Neural Network for digits recognitio
 
 It achieved 84.57% of accuracy with this CNN trained on a CPU, which took me about a 5-10minute. If you dont have a GPU powered machine it might take a little longer, you can try reducing the epochs (steps) to reduce computation.
 
-![Logo](i0.png)
-
 ![Python](https://img.shields.io/badge/python-3.x-orange.svg)
 ![Numpy](https://img.shields.io/badge/Numpy-1.20.3-blue)
 ![Keras](https://img.shields.io/badge/Keras-2.4.0-red)
